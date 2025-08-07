@@ -38,7 +38,7 @@ AI-Study-Assistant/
 
 1. Clone the repository
 ```
-git clone https://github.com/sooraj12sreekumar/AI_Study_Assistant.git
+git clone https://github.com/Sooraj12Sreekumar/AI_Study_Assistant.git
 cd A__Study_Assistant
 ```
 
